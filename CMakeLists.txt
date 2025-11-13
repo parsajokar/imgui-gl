@@ -30,4 +30,5 @@ target_include_directories(
     PRIVATE
     ./
     backends/
+    ../glfw/include
 )
